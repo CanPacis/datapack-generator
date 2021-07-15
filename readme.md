@@ -2,6 +2,9 @@
 
 This program bascially generates a minecraft data pack template. If you don't want to install the executable, you can just download the [template](https://github.com/CanPacis/datapack-template)
 
+## Installing
+1. Click on the generator.exe file and click ```download``` on the new page.
+
 ## Getting Started
 
 1. Just run the generator executable.
