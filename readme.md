@@ -3,7 +3,8 @@
 This program bascially generates a minecraft data pack template. If you don't want to install the executable, you can just download the [template](https://github.com/CanPacis/datapack-template)
 
 ## Installing
-1. Click on the generator.exe file and click ```download``` on the new page.
+> ATTENTION: Keep in mind that this is an unknown executable file so use it with your own risk. The software is open source, so if you don't trust me you can check out the code and compile it yourself.
+1. Click on the generator.exe file and click ```download``` on the new page. Because it is and unknown executable, your operating system might find it dangereous. Again, run this file at your own risk.
 
 ## Getting Started
 
